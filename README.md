@@ -3,10 +3,10 @@ Building an e-commerce site by using Express.js server and Sequelize to interact
 
 # Table of Contents
 
-*Installation
-*Usage
-*Screenshot
-*Video
+* Installation
+* Usage
+* Screenshot
+* Video
 
 # Installation
 
